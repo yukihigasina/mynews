@@ -7,6 +7,6 @@
         <title>kadai10</title>
     </head>
     <body>
-        <hi>さようなら</hi>
+        <h1>さようなら</h1>
     </body>
 </html>
