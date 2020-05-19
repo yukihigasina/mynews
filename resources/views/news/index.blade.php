@@ -52,6 +52,7 @@
                     </div>
                     <hr color="#c0c0c0">
                 @endforeach
+                <p>追加</p>
             </div>
         </div>
     </div>
